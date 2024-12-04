@@ -1,4 +1,4 @@
-# Screen Renderer
+# Terminal Renderer
 
 This Python program renders a text-based screen using the `curses` library. It interprets binary commands passed interactively, allowing users to control screen setup, draw characters, and clear the screen.
 
